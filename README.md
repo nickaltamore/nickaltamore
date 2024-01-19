@@ -4,7 +4,7 @@ I would like to establish myself as a Junior Data Analysis role and develop my s
 
 
 
-<div style="text-align:center">
+<div style="text-align:right">
     <img src="https://github.com/nickaltamore/nickaltamore/assets/126668788/5fdaba8a-597e-4354-865b-535bb353f8da" alt="drawing" style="width:750px;"/>
 </div>
 

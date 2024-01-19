@@ -4,4 +4,8 @@
 - 💞️ I’m looking for a position in data analysis.
 - 📫 Reach me through linkedIn: www.linkedin.com/in/nick-altamore-85750864
 
-<kbd style="background-color: lightgreen; padding: 5px;">This is some text inside a colored box</kbd>
+
+<div style="text-align:center">
+    <img src="https://github.com/nickaltamore/nickaltamore/assets/126668788/5fdaba8a-597e-4354-865b-535bb353f8da" alt="drawing" style="width:750px;"/>
+</div>
+

@@ -4,6 +4,10 @@ I am a Physics graduate with a passion for data and especially  data analysis an
 
 I would like to establish myself as a Junior Data Analysis role and develop my skills in a team of dedicated data professionals.. I am looking to use my data skills and problem-solving abilities to meet new challenges head on and contribute to making important data-driven decisions.
 
+<br>LinkedIn: www.linkedin.com/in/nick-altamore-85750864 <br>
+Tableau Public: https://public.tableau.com/app/profile/nick.altamore/vizzes</br>
+</br>
+
 <div align="center">
     <img src="https://github.com/nickaltamore/nickaltamore/assets/126668788/5fdaba8a-597e-4354-865b-535bb353f8da" alt="drawing" style="width:750px;"/>
 </div>
